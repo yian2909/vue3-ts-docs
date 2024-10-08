@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,a as s}from"./app.ea176e30.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/concepts.md"}'),c={name:"guide/concepts.md"},a=s("p",null,"\u57FA\u672C\u6982\u5FF5",-1),n=[a];function r(p,_,d,i,l,m){return o(),t("div",null,n)}const h=e(c,[["render",r]]);export{f as __pageData,h as default};

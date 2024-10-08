@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,a as s}from"./app.ea176e30.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/form.md"}'),a={name:"components/form.md"},n=s("p",null,"\u8868\u5355\u7EC4\u4EF6\u5B66\u4E60",-1),r=[n];function c(_,p,m,d,i,f){return o(),t("div",null,r)}const h=e(a,[["render",c]]);export{u as __pageData,h as default};
